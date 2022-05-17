@@ -12,9 +12,9 @@ Create the folder
 
 Open the folder
 
-Clone this repository, using git clone command
-
 Then open the command prompt or terminal (because whole projected created in windows) in admin permission and navigate to the created folder and follow the following commands
+
+Clone this repository, using git clone command
 
 First crete the virtual environment : python -m venv (type here name of the virtual environment)
 
