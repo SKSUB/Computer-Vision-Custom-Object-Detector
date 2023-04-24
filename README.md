@@ -1,10 +1,23 @@
 # Computer-Vision-Custom-Object-Detector
 
+## INTROCUCTION
+In this project proposed and trained a
+MobileNet neural network which is a lightweight DNNs performs
+the detection of various objects like (mouse, monitor, keyboard
+and CPU) in real-time by building the custom object detector and
+converting it into onnx format to be reusable in any application
+with using ZED mini performs with good accuracy.
+
+More details and results on the Project.pdf file.
+
+
+## INSTALLATION AND RUNNING:
+
 First install anaconda
 
 Install Gitbash
 
-Install cuda cudnn based for the tensforflow version
+Install cuda cudnn based on the tensforflow version
 
 Open command prompt with the admin permission
 
